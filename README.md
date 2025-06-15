@@ -48,7 +48,7 @@ Assisted in evaluating gender-based and prescription-based demand to enhance tar
 Enhanced insight into bottlenecks of store-level performance and order status.
 Facilitated decision-making in payment mode optimization and order channel strategy.
 
-5. # screen shot
+   
   
 
 
